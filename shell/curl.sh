@@ -1,3 +1,12 @@
+# Publish a given image to Adafruit IO. Combine with `raspistill` to get a
+# two-script image publishing workflow.
+#
+# https://www.raspberrypi.org/documentation/usage/camera/raspicam/raspistill.md
+#
+
+
+
+
 # get these from your IO account
 IO_USERNAME='[redacted]'
 IO_KEY='[redacted]'
